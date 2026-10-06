@@ -1,0 +1,22 @@
+LSTM Sentiment Analysis - Model Evaluation Summary
+============================================================
+Test Loss:     0.2821
+Test Accuracy: 88.81%
+Precision:     89.77%
+Recall:        87.60%
+F1-Score:      88.67%
+
+Confusion Matrix:
+[[4501  499]
+ [ 620 4380]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    Negative     0.8789    0.9002    0.8894      5000
+    Positive     0.8977    0.8760    0.8867      5000
+
+    accuracy                         0.8881     10000
+   macro avg     0.8883    0.8881    0.8881     10000
+weighted avg     0.8883    0.8881    0.8881     10000
+

@@ -322,8 +322,8 @@ sentiment-lstm/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/sentiment-lstm.git
-cd sentiment-lstm
+git clone https://github.com/bhava1209/lstm-sentiment-classifier.git
+cd lstm-sentiment-classifier
 ```
 
 ### 2. Create and Activate Virtual Environment
